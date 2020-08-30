@@ -1,0 +1,6 @@
+main: de.protagor.plugin.NetheriteScoreboardMinecraftPlugin
+version: 1.0.0
+name: NetheriteScoreboardMinecraftPlugin
+description: Ein Plugin, das anzeigt, wieviel Ancient Debris die Spieler bereits gefarm haben.
+api-version: 1.16
+
